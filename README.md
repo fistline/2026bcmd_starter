@@ -1,4 +1,10 @@
-# 2025 BCMD Starter Project
+# 2026 BCMD Starter Project
+
+2025 BCMD Starter Project를 2026년도에 맞게 개선하였습니다. 
+개선사항은 아래와 같습니다. 
+- 
+-
+- 
 
 블록체인 기반 STO(Security Token Offering) 토큰 DApp 프로젝트입니다. Hardhat을 사용한 스마트 컨트랙트 개발 환경과 Svelte를 사용한 프론트엔드로 구성되어 있습니다.
 
